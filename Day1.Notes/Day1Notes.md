@@ -1,3 +1,6 @@
+We will cover these topics in Kubernetes:
+![alt text](image-1.png)
+
 Why we use K8S rather than docker :
 1. Auto scaling: To increse the containers automatically if needed.
  Docker dont have autoscaling and Kubernets have 
