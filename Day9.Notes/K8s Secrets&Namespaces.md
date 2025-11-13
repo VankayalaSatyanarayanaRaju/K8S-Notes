@@ -61,7 +61,7 @@ To get ns --> kubectl get ns
 4 things are default
 ![alt text](image-1.png)
 All these are created in default cause we havent given or specifed
-
+![alt text](image-2.png)
 
 
 To create our own namespace --> 2 ways imperative and declarative
